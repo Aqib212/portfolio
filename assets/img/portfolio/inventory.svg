@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Inventory module">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#78350f"/><stop offset="1" stop-color="#b7791f"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <g fill="#ffffff">
+    <rect x="480" y="96" width="260" height="8" rx="3" fill-opacity=".6"/><rect x="480" y="206" width="260" height="8" rx="3" fill-opacity=".6"/><rect x="480" y="316" width="260" height="8" rx="3" fill-opacity=".6"/>
+    <rect x="496" y="40" width="64" height="56" rx="6" fill-opacity=".9"/><rect x="572" y="56" width="52" height="40" rx="6" fill-opacity=".5"/><rect x="636" y="44" width="88" height="52" rx="6" fill-opacity=".75"/>
+    <rect x="496" y="160" width="88" height="46" rx="6" fill-opacity=".55"/><rect x="596" y="146" width="60" height="60" rx="6" fill-opacity=".9"/><rect x="668" y="166" width="56" height="40" rx="6" fill-opacity=".5"/>
+    <rect x="496" y="262" width="56" height="54" rx="6" fill-opacity=".8"/><rect x="564" y="276" width="96" height="40" rx="6" fill-opacity=".45"/><rect x="672" y="258" width="52" height="58" rx="6" fill-opacity=".9"/>
+  </g>
+  <g font-family="Inter, 'Segoe UI', Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="180" font-size="24" font-weight="600" fill-opacity=".75" letter-spacing="2">CUBIX PMS · STOCKMASTER</text>
+    <text x="60" y="240" font-size="54" font-weight="800">Inventory</text>
+    <text x="60" y="300" font-size="54" font-weight="800">Module</text>
+  </g>
+</svg>

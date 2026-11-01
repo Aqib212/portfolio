@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Client web applications">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f1d1d"/><stop offset="1" stop-color="#dc2626"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#g)"/>
+  <g stroke="#ffffff" stroke-opacity=".55" stroke-width="4"><line x1="605" y1="225" x2="505" y2="125"/><line x1="605" y1="225" x2="715" y2="135"/><line x1="605" y1="225" x2="500" y2="330"/><line x1="605" y1="225" x2="710" y2="335"/></g>
+  <circle cx="605" cy="225" r="46" fill="#ffffff"/>
+  <text x="605" y="236" text-anchor="middle" fill="#dc2626" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700">API</text>
+  <g fill="#ffffff" fill-opacity=".85"><circle cx="505" cy="125" r="20"/><circle cx="715" cy="135" r="20"/><circle cx="500" cy="330" r="20"/><circle cx="710" cy="335" r="20"/></g>
+  <g font-family="Inter, 'Segoe UI', Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="180" font-size="24" font-weight="600" fill-opacity=".75" letter-spacing="2">CODECLOUD TECHNOLOGY</text>
+    <text x="60" y="240" font-size="54" font-weight="800">Client Web</text>
+    <text x="60" y="300" font-size="54" font-weight="800">Applications</text>
+  </g>
+</svg>
